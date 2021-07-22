@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "953442429494",
+    "firebase_url": "https://realtimedatabase-38ddd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "realtimedatabase-38ddd",
+    "storage_bucket": "realtimedatabase-38ddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953442429494:android:82b5f2a5c9a996a5754697",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953442429494-lb1m3ai68utm5su9cu4q42rr12s83vch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimedatabasetest",
+            "certificate_hash": "e73de971658c01c5c73dbc03b5ac5b594c5c47e9"
+          }
+        },
+        {
+          "client_id": "953442429494-svcs0ucc6cqdv6duun3rgb035u08j0q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFLkTk7BXOw1oLlPOYy1PEcdH-rw_qX2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953442429494-svcs0ucc6cqdv6duun3rgb035u08j0q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
